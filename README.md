@@ -4,9 +4,9 @@
 An excessive (“inflated”) share of observations—stemming from two distinct d.g.p’s—fall into a single choice category in many ordered and unordered polytomous outcome variables. Standard Ordered Probit models cannot account for such category inflation which leads to biased inferences. The package offers tools to:
 
 
-Fit the Zero-Inflated Ordered Probit (ZIOP) model without and with correlated errors (ZIOPC model) to evaluate zero-inflated ordered choice outcomes that result from a dual data generating process (d.g.p.).
+Fit the Zero-Inflated Ordered Probit (ZIOP) model to evaluate zero-inflated ordered choice outcomes that result from a dual data generating process (d.g.p.).
 
-Fit the Middle-Inflated Ordered Probit (MIOP) model without and with correlated errors (MIOPC) to account for the inflated middle-category in ordered choice measures related to a dual d.g.p.
+Fit the Middle-Inflated Ordered Probit (MIOP) model to account for the inflated middle-category in ordered choice measures related to a dual d.g.p.
 
 ### Installation
 
