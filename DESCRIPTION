@@ -18,6 +18,9 @@ Authors@R:
                     role = c("aut"))
                     )		    
 Description: Contains inflated ordered probit (IOP) models with correlated and uncorrelated inflations in either the "bottom", "middle" or "top" categories. They combine two latent equations: (i) a 'split' probit equation that estimates the effect of covariates on the probability with which the ordered category of interest is inflated, and (ii) an augmented ordered probit equation that estimates the effect of a second set of covariates on the probabilities of observing each ordered choice outcome, conditional on the probability of the inflated ordered category. 
+	Models originally presented in:
+	Bagozzi, Benjamin E., and Bumba Mukherjee. "A mixture model for middle category inflation in ordered survey responses." Political Analysis 20, no. 3 (2012): 369-386.
+	Bagozzi, Benjamin E., Daniel W. Hill Jr, Will H. Moore, and Bumba Mukherjee. "Modeling two types of peace: The zero-inflated ordered probit (ZiOP) model in conflict research." Journal of Conflict Resolution 59, no. 4 (2015): 728-752.
 License: GPLv3 + file LICENSE
 Encoding: UTF-8
 LazyData: true
