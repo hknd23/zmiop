@@ -2,7 +2,8 @@ Package: zmiop
 Type: Package
 Title: Zero and Middle-Inflated Ordered Probit Models
 Version: 0.0.1
-Authors@R: c(person(given = "Benjamin E.",
+Authors@R: 
+       c(person(given = "Benjamin E.",
                     family = "Bagozzi",
                     role = c("aut")),
              person(given = "Minnie M.",
@@ -26,3 +27,4 @@ Imports:
   	Rcpp,
 	mvtnorm, 
 	optimr
+RoxygenNote: 7.1.2
