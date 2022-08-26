@@ -1,6 +1,6 @@
 Package: zmiop
 Type: Package
-Title: Inflated Ordered Probit
+Title: Zero and Middle-Inflated Ordered Probit Models
 Version: 0.0.1
 Authors@R: c(person(given = "Benjamin E.",
                     family = "Bagozzi",
@@ -16,6 +16,7 @@ Authors@R: c(person(given = "Benjamin E.",
                     family = "Mukherjee", 
                     role = c("aut"))
                     )
+		    
 Description: Contains inflated ordered probit (IOP) models with correlated and uncorrelated inflations in either the "bottom", "middle" or "top" categories.
     They combine two latent equations: (i) a 'split' probit equation that estimates the effect of covariates on the 
     probability with which the ordered category of interest is inflated, and (ii) an augmented ordered probit equation that estimates the effect of a second set of covariates 
