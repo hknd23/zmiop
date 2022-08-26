@@ -8,6 +8,13 @@ Fit the Zero-Inflated Ordered Probit (ZIOP) model to evaluate zero-inflated orde
 
 Fit the Middle-Inflated Ordered Probit (MIOP) model to account for the inflated middle-category in ordered choice measures related to a dual d.g.p.
 
+Models originally presented in: 
+
+Bagozzi, Benjamin E., and Bumba Mukherjee. "A mixture model for middle category inflation in ordered survey responses." *Political Analysis* 20, no. 3 (2012): 369-386.
+
+
+Bagozzi, Benjamin E., Daniel W. Hill Jr, Will H. Moore, and Bumba Mukherjee. "Modeling two types of peace: The zero-inflated ordered probit (ZiOP) model in conflict research." *Journal of Conflict Resolution* 59, no. 4 (2015): 728-752.
+
 ### Installation
 
 ```
