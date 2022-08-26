@@ -1,4 +1,5 @@
 # `zmiop`
+*Benjamin E. Bagozzi, Minnie M. Joo, Nguyen K Huynh, and Bumba Mukherjee*
 
 An excessive (“inflated”) share of observations—stemming from two distinct d.g.p’s—fall into a single choice category in many ordered and unordered polytomous outcome variables. Standard Ordered Probit models cannot account for such category inflation which leads to biased inferences. The package offers tools to:
 
