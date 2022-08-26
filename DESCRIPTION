@@ -1,7 +1,7 @@
 Package: zmiop
 Type: Package
 Title: Inflated Ordered Probit
-Version: 0.1.992
+Version: 0.0.1
 Authors@R: c(person(given = "Benjamin E.",
                     family = "Bagozzi",
                     role = c("aut")),
