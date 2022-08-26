@@ -3,9 +3,7 @@
 ##################################################################
 
 
-#' @useDynLib IOP
 #' @importFrom stats dgamma runif as.formula model.frame model.matrix model.response na.omit na.pass
-#' @import alr3
 #' @import RcppArmadillo
 #' @importFrom Rcpp sourceCpp
 #' @importFrom mvtnorm rmvnorm dmvnorm
