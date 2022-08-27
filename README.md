@@ -34,9 +34,8 @@ Z    <- as.matrix(bp[vars])
 ```
 ```
 ## ZIOP
-model1_ziop <- iop(Y ~ X | Z, data = bp[vars], type = c("ziop"))
-summary(model1_ziop)
-model_ziop$coefficients
+model_ziop <- iop(Y ~ X | Z, data = bp[vars], type = c("ziop"))
+summary(model_ziop)
 ```
 
 ### MiOP Model
@@ -57,5 +56,4 @@ Z    <- as.matrix(EUK[vars])
 ```
 model_miop <- iop(Y ~ X | Z, data = EUK[vars], type = c("miop"))
 summary(model_miop)
-model_miop$coefficients
 ```
